@@ -1,9 +1,9 @@
-Building Dogecoin
+Building Pixelcoin
 
-See doc/readme-qt.rst for instructions on building Dogecoin-QT,
+See doc/readme-qt.rst for instructions on building Pixelcoin-QT,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Dogecoin.
+implementation of Pixelcoin.
 
-See doc/build-*.txt for instructions on building dogecoind,
+See doc/build-*.txt for instructions on building pixelcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Dogecoin.
+implementation of Pixelcoin.
